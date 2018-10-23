@@ -40,14 +40,14 @@ footer{
     line-height: 50px; 
     color: #FFFFFF;
 }
-nav{
+#pet nav{
     margin-top: 170px;
 }
-nav lu{  
+#pet nav lu{  
     padding: 0px;
     list-style: none;
 }
-nav lu li a{
+#pet nav lu li a{
     display: block;
     width: 150px;
     height: 42px;
@@ -55,7 +55,7 @@ nav lu li a{
     text-indent: 50px;
     line-height: 35px;
 }
-nav lu li a:hover{
+#pet nav lu li a:hover{
     background-image: url(../images/btn_hover.png);
     color: white;
 }
